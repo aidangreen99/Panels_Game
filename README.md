@@ -4,8 +4,8 @@
 This repo is where we can track features we want to be implemented using the GitHUb issue feature.
 
 ## Feature Checklist
-- [ ] https://github.com/aidangreen99/Panels_Game/issues/1
-- [ ] https://github.com/aidangreen99/Panels_Game/issues/2
+- [ ] #1
+- [ ] # 2
 - [ ] https://github.com/aidangreen99/Panels_Game/issues/4
 - [ ] https://github.com/aidangreen99/Panels_Game/issues/3
 - [ ] https://github.com/aidangreen99/Panels_Game/issues/5
